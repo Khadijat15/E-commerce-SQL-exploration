@@ -20,6 +20,9 @@ I intended to answer the following:
 - pgadmin
 
 ## 📁 Project Structure
-- SQL Queries: Olist E-commerce query
-- Query results: Olist E-commerce query outputs
+- SQL Queries: olist sales performance.sql
+               customer retention.sql
+               olist customer experience.sql
+               olist operation performance.sql
+- Some Query Outputs: Screenshots
 - README'.md: This file
